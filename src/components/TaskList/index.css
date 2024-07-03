@@ -1,0 +1,28 @@
+.task-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  background-image: radial-gradient(#d4b791, #ffe44d);
+}
+
+.edit-button {
+  background-color: #ff52a8;
+  height: 25px;
+  width: 60px;
+  border-radius: 5px;
+  border-width: 1px;
+  color: #fff;
+}
+
+.delete-button {
+  background-color: #ff0000;
+  height: 25px;
+  width: 60px;
+  border-radius: 5px;
+  border-width: 1px;
+  color: #fff;
+}
+
+.task {
+  background-color: #ffe44d;
+}

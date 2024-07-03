@@ -1,0 +1,15 @@
+.add-button {
+  background-color: #ccf78c;
+  height: 40px;
+  width: 130px;
+  border-radius: 10px;
+  border-width: 0px;
+  color: rgb(25, 26, 24);
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.input-field {
+  font-family: Bree Serif;
+}
